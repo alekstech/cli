@@ -1,5 +1,11 @@
 # Changelog
 
+## [10.4.1](https://github.com/npm/cli/compare/v10.4.0...v10.4.1) (2024-01-29)
+
+### Documentation
+
+* [`0dd03f9`](https://github.com/npm/cli/commit/0dd03f9450e0cf57fa85ad2ef74b5a54f3c775a9) [#7182](https://github.com/npm/cli/pull/7182) fix typos (#7182) (@GoodDaisy)
+
 ## [10.4.0](https://github.com/npm/cli/compare/v10.3.0...v10.4.0) (2024-01-24)
 
 ### Features
